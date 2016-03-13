@@ -29,7 +29,8 @@ import math
 
 # boundary ist die Schranke des Bereichs in dem wir das Sieb des Eratosthenes anwenden wollen.
 # Im weiteren werden wir S für boundary in den Kommentaren verwenden.
-boundary = 100000000;
+boundary = 10000;
+
 
 # Instanziere ein Array von Index 0 bis S mit S+1 Boolean Werten. Der Index des Arrays beschreibt
 # in unserem Beispiel alle ganzen Zahlen von 0 bis S. Durch die Boolean Werte wird durch setzen
