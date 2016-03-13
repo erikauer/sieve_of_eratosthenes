@@ -1,7 +1,7 @@
 # sieve_of_eratosthenes
 Python Implementation of the sieve of eratosthenes
 
-# Run
+## Run
 
 Clone the code to your local machine by using
 
@@ -11,7 +11,7 @@ Go inside the project root directory and run the script
 
      python sieveoferatosthenes.py
      
-# Change boundary
+## Change boundary
 
 The algorithm calculates all primes until to a specific boundary value. You can change the boundary value by changing the 
 line of code inside the sieveoferatosthenes.py file. E.g you can change following line
